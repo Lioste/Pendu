@@ -26,11 +26,8 @@ namespace Pendu
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
-            /*Dictionnaire dct = new Dictionnaire();
-            dct.Close();*/
+        { 
             Close();
-
         }
 
         private void Dictionnaire_Load(object sender, EventArgs e)

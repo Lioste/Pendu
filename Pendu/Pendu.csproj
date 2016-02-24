@@ -52,6 +52,12 @@
     <Compile Include="Dictionnaire.Designer.cs">
       <DependentUpon>Dictionnaire.cs</DependentUpon>
     </Compile>
+    <Compile Include="Difficulte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Difficulte.Designer.cs">
+      <DependentUpon>Difficulte.cs</DependentUpon>
+    </Compile>
     <Compile Include="Principale.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Dictionnaire.resx">
       <DependentUpon>Dictionnaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Difficulte.resx">
+      <DependentUpon>Difficulte.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principale.resx">
       <DependentUpon>Principale.cs</DependentUpon>

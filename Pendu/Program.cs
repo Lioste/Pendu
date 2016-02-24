@@ -29,12 +29,15 @@ namespace Pendu
     }
     static class Program
     {
+        public static int difficult { get; internal set; }
+
         /// <summary>
         /// Point d'entrée principal de l'application.
         /// </summary>
         [STAThread]
         static void Main()
         {
+            int difficult = 0;
             Initialisation.FichierDico();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
