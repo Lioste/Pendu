@@ -1,0 +1,10 @@
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\bin\Debug\Pendu.exe.config
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.csprojResolveAssemblyReference.cache
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.Dictionnaire.resources
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.Principale.resources
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.Properties.Resources.resources
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.GenerateResource.Cache
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\bin\Debug\Pendu.exe
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\bin\Debug\Pendu.pdb
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.exe
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.pdb
