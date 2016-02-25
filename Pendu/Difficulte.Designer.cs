@@ -84,6 +84,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Difficulte";
             this.Text = "Difficulte";
+            this.Load += new System.EventHandler(this.Difficulte_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -19,3 +19,4 @@ C:\Users\stagiaire\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pe
 C:\Users\stagiaire\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.Properties.Resources.resources
 C:\Users\stagiaire\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.csproj.GenerateResource.Cache
 C:\Users\stagiaire\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.Difficulte.resources
+C:\Users\chasta\Documents\MEGA\AFPA\Langage\C#\Pendu\Pendu\Pendu\obj\Debug\Pendu.Difficulte.resources

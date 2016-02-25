@@ -34,5 +34,10 @@ namespace Pendu
             Program.difficult = 15;
             Close();
         }
+
+        private void Difficulte_Load(object sender, EventArgs e)
+        {
+            Program.difficult = 11;
+        }
     }
 }

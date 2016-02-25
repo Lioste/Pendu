@@ -15,7 +15,7 @@ namespace Pendu
             string path = @"Dico.txt"; // Chemin du Fichier(ici a la racine du .exe) "C: .....\Dico.txt"
             try
             {
-                if (!File.Exists(path))//Verif Si le fichier est inexistant on le crée + 
+                if (!File.Exists(path))//Verif Si le fichier est inexistant on le crée
                 {
                     string[] LigneDicoDefault = { "ACCENTUE", "PENDERIE", "INCASSABLE", "DEVELOPPEUR", "LOGICIEL", "CAFETIERE" };
                     System.IO.File.AppendAllLines("dico.txt", LigneDicoDefault);
@@ -37,7 +37,7 @@ namespace Pendu
         [STAThread]
         static void Main()
         {
-            int difficult = 0;
+            int difficult = 7;
             Initialisation.FichierDico();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
